@@ -15,26 +15,6 @@ Feel free to use and customize each to meet your needs.
    ```bash
    git clone https://github.com/devinci-it/python-dev-essentials.git
    cd python-dev-scripts
-   ```
-Certainly! Here's an updated version of the README with a focus on usage guidelines:
-
-```markdown
-# Python Dev Scripts
-
-A collection of useful scripts for Python development on different platforms.
-
-## Overview
-
-Welcome to the Python Dev Scripts repository! This collection simplifies various Python development tasks with platform-specific scripts.
-
-## Quick Start
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/python-dev-scripts.git
-   cd python-dev-scripts
-   ```
 
 2. Navigate to the relevant directory for your platform (`bash/`, `mac/`, `windows/`).
 
